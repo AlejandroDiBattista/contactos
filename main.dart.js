@@ -12570,9 +12570,9 @@ k=b
 j=k
 a=j
 g=a}if(d6==null)d6=B.oC
-if(e==null)e=o?B.xj:d6
+if(e==null)e=o?B.xi:d6
 a0=A.GN(e)
-if(o)a1=B.xJ
+if(o)a1=B.xD
 else{a2=d6.b.h(0,100)
 a2.toString
 a1=a2}if(o)a3=B.l
@@ -12585,7 +12585,7 @@ if(a2==null){a2=d6.b.h(0,600)
 a2.toString
 a5=a2}else a5=a2}a6=o?A.aC(31,255,255,255):A.aC(31,0,0,0)
 a7=o?A.aC(10,255,255,255):A.aC(10,0,0,0)
-if(k==null)k=o?B.iL:B.xX
+if(k==null)k=o?B.iL:B.xW
 if(f==null)f=k
 if(b==null)b=o?B.eS:B.i
 if(i==null)i=o?B.yb:B.ya
@@ -12610,7 +12610,7 @@ b6=a2}if(c==null)c=o?B.eS:B.i
 if(d==null){d=n.f
 if(d.k(0,e))d=B.i}b7=o?B.x7:A.aC(153,0,0,0)
 if(o){a2=d6.b.h(0,600)
-a2.toString}else a2=B.xP
+a2.toString}else a2=B.xK
 b8=new A.A8(a2,d2,a6,a7,d2,d2,n,s)
 b9=o?B.x3:B.x2
 c0=o?B.iH:B.eQ
@@ -12633,7 +12633,7 @@ if(a==null)if(o)a=B.eU
 else{a2=d6.b.h(0,200)
 a2.toString
 a=a2}if(j==null)j=o?B.eS:B.i
-return A.abw(d2,d2,B.v7,g===!0,a,B.ve,B.Dp,j,B.vn,B.vo,B.vp,B.vy,b8,k,b,B.wU,B.wV,B.wW,n,d2,B.yn,B.yo,c,B.yB,b9,i,B.yC,B.yE,B.yF,B.yR,h,B.yV,A.arF(d3),B.yW,!0,B.yZ,a6,c0,b7,a7,B.z8,d0,d,B.w4,B.zz,s,B.Dw,B.Dx,B.Dy,B.DH,B.DI,B.DJ,B.DX,B.wj,d4,B.EJ,e,a0,a3,a1,d1,c9,B.EK,B.EL,f,B.F8,B.F9,B.Fa,b6,B.Fb,B.xW,B.l,B.Gg,B.Gi,c1,q,B.Gq,B.Gx,B.Gz,B.GJ,c8,B.KT,B.KU,a5,B.KV,c5,b5,d7,r)},
+return A.abw(d2,d2,B.v7,g===!0,a,B.ve,B.Dp,j,B.vn,B.vo,B.vp,B.vy,b8,k,b,B.wU,B.wV,B.wW,n,d2,B.yn,B.yo,c,B.yB,b9,i,B.yC,B.yE,B.yF,B.yR,h,B.yV,A.arF(d3),B.yW,!0,B.yZ,a6,c0,b7,a7,B.z8,d0,d,B.w4,B.zz,s,B.Dw,B.Dx,B.Dy,B.DH,B.DI,B.DJ,B.DX,B.wj,d4,B.EJ,e,a0,a3,a1,d1,c9,B.EK,B.EL,f,B.F8,B.F9,B.Fa,b6,B.Fb,B.xU,B.l,B.Gg,B.Gi,c1,q,B.Gq,B.Gx,B.Gz,B.GJ,c8,B.KT,B.KU,a5,B.KV,c5,b5,d7,r)},
 abw(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9){return new A.fk(d,a0,b3,c4,c6,d4,d5,e6,f6,!1,g9,h,n,o,s,a3,a5,a6,b7,b8,b9,c0,c3,d7,d9,e0,e5,e9,f1,f2,f5,g7,c2,e1,e2,g1,g6,a,c,f,g,i,j,k,l,m,p,q,r,a1,a2,a4,a7,a8,a9,b0,b2,b4,b6,c1,c5,c7,c8,c9,d0,d1,d2,d3,d6,e3,e4,e7,e8,f0,f3,f4,f7,f8,f9,g0,g2,g3,g5,!0,d8,b,b1,e,g4)},
 arD(){return A.agD(B.O,null,null)},
 arH(a,b){return $.akk().bi(0,new A.pN(a,b),new A.a1U(a,b))},
@@ -63402,7 +63402,7 @@ $S:122}
 A.Wi.prototype={}
 A.Wj.prototype={}
 A.Dv.prototype={
-R(a){return new A.tA(new A.BY(null),"Clasificar Vecinos",A.agD(null,B.Dr,!1),!1,null)}}
+R(a){return new A.tA(new A.BY(null),"Clasificar Vecinos v0.10",A.agD(null,B.Dq,!1),!1,null)}}
 A.Rt.prototype={
 $1(a){var s,r,q=J.aa(a),p=q.h(a,"mesa"),o=q.h(a,"orden"),n=q.h(a,"dni"),m=q.h(a,"nombre")
 if(m==null)m=""
@@ -63528,7 +63528,7 @@ A.a70.prototype={
 $0(){},
 $S:0}
 A.a6Z.prototype={
-$2(a,b){var s=null,r=this.b[b],q=A.fj(r.d,A.eP(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),p=A.aa9(A.a([A.fj(r.e,s),A.fj("DNI: "+r.c+" | Mesa: "+this.c.a+", #"+r.b,s)],t.F),B.cf,B.dN),o=r.as?A.aaE(B.zb,B.Dq,s):A.aaE(B.zc,s,s)
+$2(a,b){var s=null,r=this.b[b],q=A.fj(r.d,A.eP(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),p=A.aa9(A.a([A.fj(r.e,s),A.fj("DNI: "+r.c+" | Mesa: "+this.c.a+", #"+r.b,s)],t.F),B.cf,B.dN),o=r.as?A.aaE(B.zb,B.Dr,s):A.aaE(B.zc,s,s)
 return A.aaO(new A.a6Y(this.a,r),p,q,o)},
 $S:386}
 A.a6Y.prototype={
@@ -66719,9 +66719,9 @@ B.iK=new A.z(4278879487)
 B.iJ=new A.z(4278206685)
 B.iN=new A.z(4282424575)
 B.yj=new A.f0(B.eR,"systemBlue",null,B.eR,B.iK,B.iJ,B.iN,B.eR,B.iK,B.iJ,B.iN,0)
-B.xf=new A.z(4280032286)
-B.xl=new A.z(4280558630)
-B.j0=new A.f0(B.i,"systemBackground",null,B.i,B.l,B.i,B.l,B.i,B.xf,B.i,B.xl,0)
+B.xe=new A.z(4280032286)
+B.xk=new A.z(4280558630)
+B.j0=new A.f0(B.i,"systemBackground",null,B.i,B.l,B.i,B.l,B.i,B.xe,B.i,B.xk,0)
 B.cd=new A.z(4042914297)
 B.df=new A.z(4028439837)
 B.yk=new A.f0(B.cd,null,null,B.cd,B.df,B.cd,B.df,B.cd,B.df,B.cd,B.df,0)
@@ -66763,41 +66763,41 @@ B.aM=new A.nr(1,"hardEdge")
 B.iG=new A.nr(2,"antiAlias")
 B.bC=new A.nr(3,"antiAliasWithSaveLayer")
 B.eW=new A.z(4291869951)
-B.xq=new A.z(4281867890)
-B.xx=new A.z(4283381643)
+B.xn=new A.z(4281867890)
+B.xs=new A.z(4283381643)
 B.iS=new A.z(4293582335)
-B.xO=new A.z(4291609308)
-B.xp=new A.z(4281544001)
-B.xw=new A.z(4283057240)
+B.xI=new A.z(4291609308)
+B.xm=new A.z(4281544001)
+B.xr=new A.z(4283057240)
 B.iR=new A.z(4293451512)
-B.xT=new A.z(4293900488)
-B.xv=new A.z(4282983730)
-B.xB=new A.z(4284693320)
+B.xP=new A.z(4293900488)
+B.xq=new A.z(4282983730)
+B.xv=new A.z(4284693320)
 B.iU=new A.z(4294957284)
-B.xU=new A.z(4294097077)
-B.xz=new A.z(4284486672)
-B.xG=new A.z(4287372568)
+B.xR=new A.z(4294097077)
+B.xt=new A.z(4284486672)
+B.xA=new A.z(4287372568)
 B.iT=new A.z(4294565596)
 B.dg=new A.z(4280032031)
 B.eX=new A.z(4293321189)
 B.eT=new A.z(4282991951)
 B.iP=new A.z(4291478736)
-B.xI=new A.z(4287860633)
+B.xC=new A.z(4287860633)
 B.iM=new A.z(4281413683)
 B.eV=new A.z(4284960932)
-B.x_=new A.nt(B.V,B.eW,B.xq,B.xx,B.iS,B.xO,B.xp,B.xw,B.iR,B.xT,B.xv,B.xB,B.iU,B.xU,B.xz,B.xG,B.iT,B.dg,B.eX,B.dg,B.eX,B.eT,B.iP,B.xI,B.eT,B.l,B.l,B.eX,B.iM,B.eV,B.eW,null,null)
-B.xi=new A.z(4280352861)
-B.xA=new A.z(4284636017)
-B.xg=new A.z(4280097067)
-B.xF=new A.z(4286403168)
-B.xo=new A.z(4281405725)
-B.xL=new A.z(4289930782)
-B.xt=new A.z(4282453515)
+B.x_=new A.nt(B.V,B.eW,B.xn,B.xs,B.iS,B.xI,B.xm,B.xr,B.iR,B.xP,B.xq,B.xv,B.iU,B.xR,B.xt,B.xA,B.iT,B.dg,B.eX,B.dg,B.eX,B.eT,B.iP,B.xC,B.eT,B.l,B.l,B.eX,B.iM,B.eV,B.eW,null,null)
+B.xh=new A.z(4280352861)
+B.xu=new A.z(4284636017)
+B.xf=new A.z(4280097067)
+B.xy=new A.z(4286403168)
+B.xl=new A.z(4281405725)
+B.xF=new A.z(4289930782)
+B.xo=new A.z(4282453515)
 B.iV=new A.z(4294966270)
-B.xR=new A.z(4293386476)
-B.xD=new A.z(4286149758)
-B.xV=new A.z(4294242292)
-B.x0=new A.nt(B.O,B.eV,B.i,B.iS,B.xi,B.xA,B.i,B.iR,B.xg,B.xF,B.i,B.iU,B.xo,B.xL,B.i,B.iT,B.xt,B.iV,B.dg,B.iV,B.dg,B.xR,B.eT,B.xD,B.iP,B.l,B.l,B.iM,B.xV,B.eW,B.eV,null,null)
+B.xM=new A.z(4293386476)
+B.xx=new A.z(4286149758)
+B.xT=new A.z(4294242292)
+B.x0=new A.nt(B.O,B.eV,B.i,B.iS,B.xh,B.xu,B.i,B.iR,B.xf,B.xy,B.i,B.iU,B.xl,B.xF,B.i,B.iT,B.xo,B.iV,B.dg,B.iV,B.dg,B.xM,B.eT,B.xx,B.iP,B.l,B.l,B.iM,B.xT,B.eW,B.eV,null,null)
 B.af=new A.z(0)
 B.iH=new A.z(1087163596)
 B.x1=new A.z(134217728)
@@ -66813,16 +66813,16 @@ B.x7=new A.z(2583691263)
 B.z=new A.z(3019898879)
 B.x9=new A.z(4039164096)
 B.xa=new A.z(4278239141)
-B.xj=new A.z(4280361249)
+B.xi=new A.z(4280361249)
 B.iL=new A.z(4281348144)
 B.eS=new A.z(4282532418)
 B.eU=new A.z(4284572001)
 B.iO=new A.z(4284809178)
-B.xJ=new A.z(4288585374)
+B.xD=new A.z(4288585374)
 B.iQ=new A.z(4292030255)
-B.xP=new A.z(4292927712)
-B.xW=new A.z(4294309365)
-B.xX=new A.z(4294638330)
+B.xK=new A.z(4292927712)
+B.xU=new A.z(4294309365)
+B.xW=new A.z(4294638330)
 B.xY=new A.z(4294901760)
 B.y9=new A.z(436207616)
 B.ya=new A.z(520093696)
@@ -68023,18 +68023,30 @@ B.AV=A.a(s([B.cy,null,null,B.fD]),t.L)
 B.AZ=A.a(s([B.bL,B.bL,B.cA,null]),t.L)
 B.Do=new A.aP(32,{"*":B.B3,"+":B.B4,"-":B.B5,".":B.B6,"/":B.B7,"0":B.Aj,"1":B.Ak,"2":B.Al,"3":B.Am,"4":B.An,"5":B.Ao,"6":B.Ap,"7":B.Aq,"8":B.Bi,"9":B.Bj,Alt:B.AW,AltGraph:B.Bk,ArrowDown:B.Au,ArrowLeft:B.Av,ArrowRight:B.Aw,ArrowUp:B.AF,Clear:B.AT,Control:B.AX,Delete:B.Ag,End:B.Ax,Enter:B.B8,Home:B.Ay,Insert:B.AU,Meta:B.AY,PageDown:B.Az,PageUp:B.AV,Shift:B.AZ},B.jC,A.a0("aP<l,x<f?>>"))
 B.Dp=new A.tB(null,null,null,null,null,null,null,null)
-B.xQ=new A.z(4293128957)
-B.xM=new A.z(4290502395)
-B.xH=new A.z(4287679225)
-B.xC=new A.z(4284790262)
-B.xu=new A.z(4282557941)
-B.xk=new A.z(4280391411)
-B.xh=new A.z(4280191205)
+B.xL=new A.z(4293128957)
+B.xG=new A.z(4290502395)
+B.xB=new A.z(4287679225)
+B.xw=new A.z(4284790262)
+B.xp=new A.z(4282557941)
+B.xj=new A.z(4280391411)
+B.xg=new A.z(4280191205)
 B.xd=new A.z(4279858898)
 B.xc=new A.z(4279592384)
 B.xb=new A.z(4279060385)
-B.D_=new A.bv([50,B.xQ,100,B.xM,200,B.xH,300,B.xC,400,B.xu,500,B.xk,600,B.xh,700,B.xd,800,B.xc,900,B.xb],t.pl)
+B.D_=new A.bv([50,B.xL,100,B.xG,200,B.xB,300,B.xw,400,B.xp,500,B.xj,600,B.xg,700,B.xd,800,B.xc,900,B.xb],t.pl)
 B.oC=new A.om(B.D_,4280391411)
+B.xX=new A.z(4294763756)
+B.xV=new A.z(4294491088)
+B.xS=new A.z(4294217649)
+B.xQ=new A.z(4293943954)
+B.xO=new A.z(4293673082)
+B.xN=new A.z(4293467747)
+B.xJ=new A.z(4292352864)
+B.xH=new A.z(4290910299)
+B.xE=new A.z(4289533015)
+B.xz=new A.z(4287106639)
+B.D0=new A.bv([50,B.xX,100,B.xV,200,B.xS,300,B.xQ,400,B.xO,500,B.xN,600,B.xJ,700,B.xH,800,B.xE,900,B.xz],t.pl)
+B.Dq=new A.om(B.D0,4293467747)
 B.y7=new A.z(4294965473)
 B.y6=new A.z(4294962355)
 B.y5=new A.z(4294959234)
@@ -68045,20 +68057,8 @@ B.y1=new A.z(4294947584)
 B.y0=new A.z(4294942720)
 B.y_=new A.z(4294938368)
 B.xZ=new A.z(4294930176)
-B.D0=new A.bv([50,B.y7,100,B.y6,200,B.y5,300,B.y4,400,B.y3,500,B.y2,600,B.y1,700,B.y0,800,B.y_,900,B.xZ],t.pl)
-B.Dq=new A.om(B.D0,4294951175)
-B.xS=new A.z(4293454582)
-B.xN=new A.z(4291152617)
-B.xK=new A.z(4288653530)
-B.xE=new A.z(4286154443)
-B.xy=new A.z(4284246976)
-B.xs=new A.z(4282339765)
-B.xr=new A.z(4281944491)
-B.xn=new A.z(4281352095)
-B.xm=new A.z(4280825235)
-B.xe=new A.z(4279903102)
-B.D1=new A.bv([50,B.xS,100,B.xN,200,B.xK,300,B.xE,400,B.xy,500,B.xs,600,B.xr,700,B.xn,800,B.xm,900,B.xe],t.pl)
-B.Dr=new A.om(B.D1,4282339765)
+B.D1=new A.bv([50,B.y7,100,B.y6,200,B.y5,300,B.y4,400,B.y3,500,B.y2,600,B.y1,700,B.y0,800,B.y_,900,B.xZ],t.pl)
+B.Dr=new A.om(B.D1,4294951175)
 B.aQ=new A.d9(0,"hovered")
 B.bM=new A.d9(1,"focused")
 B.ay=new A.d9(2,"pressed")
