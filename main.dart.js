@@ -63495,7 +63495,7 @@ A.x6.prototype={
 R(a){var s=null,r=this.a.c
 return A.aba(A.a9U(A.fj(r.a,A.eP(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),A.aaP(this.ga_M(),r.y.length,new A.a53()))},
 a_N(a,b){var s=null,r=this.a.c.y[b],q=r.d,p=A.fj("Mesa "+r.a+" ",A.eP(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))
-return A.aaO(new A.a54(this,r),A.aa9(A.a([A.fj("De "+B.b.gG(q).d+" a "+B.b.gK(q).d+"}",A.eP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bG,s,s,!0,s,s,s,s,s,s,s,s)),A.fj(" "+q.length+" votantes | "+r.gIQ().length+" favoritos",A.eP(s,s,s,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],t.F),B.cf,B.dN),p,s)},
+return A.aaO(new A.a54(this,r),A.aa9(A.a([A.fj("De "+B.b.gG(q).d+" a "+B.b.gK(q).d,A.eP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bG,s,s,!0,s,s,s,s,s,s,s,s)),A.fj(" "+q.length+" votantes | "+r.gIQ().length+" favoritos",A.eP(s,s,s,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],t.F),B.cf,B.dN),p,s)},
 a2e(a){var s,r
 A.eV("irVotantes: "+a.a)
 s=this.c
