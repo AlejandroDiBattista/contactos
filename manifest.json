@@ -1,13 +1,13 @@
 {
-	"name": "Registrar Cascos",
-	"short_name": "Cascos",
-	"start_url": "http://myflutter-adibattista.web.app/",
+	"name": "Punteo YB",
+	"short_name": "Punteo",
+	"start_url": "https://punteo.netlify.app/",
 	"scope": "/",
 	"display": "fullscreen",
 	"orientation": "portrait",
 	"background_color": "#0175C2",
 	"theme_color": "#0175C2",
-	"description": "Permite la registración del uso de cascos en Yerba Buena",
+	"description": "El mejor punteo de la web",
 	"prefer_related_applications": false,
 	"icons": [
 		{
