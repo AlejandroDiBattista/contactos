@@ -77999,7 +77999,7 @@ d=l.z5("Escuelas")
 e=A.en(A.a([new A.hj("Total",$.e5.length,j),new A.hj(i,A.aAX(),j),new A.hj("Completas",A.aAY(),j)],s),B.a_,B.is,B.J)
 r=A.hJ(j)
 q=l.z5("Mesas")
-p=A.en(A.a([new A.hj("Total",A.aAZ(),j),new A.hj(i,A.aB_(),j),new A.hj("Cerradas",A.aB0(),j)],s),B.a_,B.GD,B.J)
+p=A.en(A.a([new A.hj("Total",A.aAZ(),j),new A.hj(i,A.aB_(),j),new A.hj("Cerradas",A.aB0(),j)],s),B.a_,B.is,B.J)
 o=A.hJ(j)
 n=l.z5("Votantes")
 m=A.a([new A.hj("Analizados",A.aqI(),j),new A.hj("Marcados",A.amn(),j)],s)
@@ -78257,7 +78257,7 @@ return A.aCQ(this.a,a,s,s)},
 $S:491}
 A.hj.prototype={
 L(a){var s=null,r=this.d,q=0<r&&r<1?A.h(B.d.a8(r*1000)/10)+"%":""+B.d.a8(r)
-return A.dd(s,new A.Eu(1,A.am9(A.hb(A.a([A.b5(q,s,s,s,A.aY(s,s,s,s,s,s,s,s,s,s,s,32,s,s,B.ac,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.b5(this.c,s,s,s,A.aY(s,s,s,s,s,s,s,s,s,s,s,16,s,s,B.lw,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.a_,B.is,B.J),10),s),s,s,s,s,s,s,120)}}
+return A.dd(s,new A.Eu(1,A.am9(A.hb(A.a([A.b5(q,s,s,s,A.aY(s,s,s,s,s,s,s,s,s,s,s,32,s,s,B.ac,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.b5(this.c,s,s,s,A.aY(s,s,s,s,s,s,s,s,s,s,s,16,s,s,B.lw,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.a_,B.GD,B.J),10),s),s,s,s,s,s,s,120)}}
 A.a9r.prototype={
 gp(a){return this.c.length},
 gaeO(a){return this.b.length},
@@ -82182,8 +82182,8 @@ B.ad=new A.lW(0,"start")
 B.GB=new A.lW(1,"end")
 B.GC=new A.lW(2,"center")
 B.cA=new A.lW(3,"spaceBetween")
-B.GD=new A.lW(4,"spaceAround")
-B.is=new A.lW(5,"spaceEvenly")
+B.is=new A.lW(4,"spaceAround")
+B.GD=new A.lW(5,"spaceEvenly")
 B.it=new A.Im(0,"min")
 B.J=new A.Im(1,"max")
 B.rp=new A.o(16)
