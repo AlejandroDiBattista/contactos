@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.json": "230d4c6b08c59030e961101c8f86773
 "assets/datos/votantes.json": "5eeab9fd04dc0c0be1f2ae2fb27811c1",
 "assets/FontManifest.json": "bf9160a436828f947d5b0d9b026cb4c7",
 "assets/fonts/MaterialIcons-Regular.otf": "4ec2bc7dce16b8db5c0074ac9de39cbe",
-"assets/NOTICES": "7060682aeb002b3df134a7226c885c0f",
+"assets/NOTICES": "b9271cf0db80b91f637fae47ab606b16",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "d5fc661e7ad3456434ba2353a4bb2c28",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -25,9 +25,9 @@ const RESOURCES = {"assets/AssetManifest.json": "230d4c6b08c59030e961101c8f86773
 "icons/PunteoYB-192.png": "c49cc2e6e0f85a09e43b7c56be1284ee",
 "icons/PunteoYB-512.png": "c3ea7af7b307825bdebdb8a732659a16",
 "icons/PunteoYB.png": "56211c388b6a701e9f3b240e3eadb93a",
-"index.html": "016f6a8c19194d5590ef280093d7d80e",
-"/": "016f6a8c19194d5590ef280093d7d80e",
-"main.dart.js": "efa5a4e76663455d5c22eee93966970c",
+"index.html": "b09478097de820859bac6c4a9d6f4ed1",
+"/": "b09478097de820859bac6c4a9d6f4ed1",
+"main.dart.js": "c685a08aab178407f3217d19d307272b",
 "manifest.json": "39afe415f93817a42f600d28bfe9f0cc",
 "version.json": "e54704bcec42ae8b07615cc80277aa5c"};
 // The application shell files that are downloaded before a service worker can
