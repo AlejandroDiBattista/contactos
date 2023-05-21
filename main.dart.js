@@ -79007,7 +79007,7 @@ gn6(){return"\\"}}
 A.a65.prototype={}
 A.IU.prototype={
 K(a){var s=null,r=4284546968
-return new A.xj(B.D5,"Punteo YB 1.1.2",A.auK(A.aro(s,s,s,new A.q(r),s,s,s,s,s,s,s,s,s,s,s,s),s,A.aBX(B.a4,new A.q(r)),!0),!1,s)}}
+return new A.xj(B.D5,"Punteo YB 1.1.3",A.auK(A.aro(s,s,s,new A.q(r),s,s,s,s,s,s,s,s,s,s,s,s),s,A.aBX(B.a4,new A.q(r)),!0),!1,s)}}
 A.f9.prototype={
 bm(){return B.a5.hP(A.an(["mesa",this.a,"referente",this.b,"hora",this.c],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -79471,7 +79471,7 @@ A.Bd.prototype={
 aM(){this.e=!0
 A.nA().ca(new A.afS(this),t.a)
 this.b0()},
-K(a){var s=this,r=null,q=A.a([new A.q(4284546968),new A.q(4278243582)],t.t_),p=A.b5("Punteo YB",r,r,r,A.aT(r,r,A.G(a).fr,r,r,r,r,r,"Oxanium",r,r,50,r,r,B.af,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=A.b5("Versi\xf3n 1.1.2",r,r,r,A.aT(r,r,A.G(a).fr,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),n=A.dc(r,100,r),m=t.p,l=A.es(A.a([s.abG(),A.dc(r,r,10),A.a17(new A.bR(new A.az(8,12,8,12),A.b5("Ingresar",r,r,r,A.aT(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),s.gaev(),s.gaeu())],m),B.bg,B.ag,B.P),k=A.dc(r,16,r)
+K(a){var s=this,r=null,q=A.a([new A.q(4284546968),new A.q(4278243582)],t.t_),p=A.b5("Punteo YB",r,r,r,A.aT(r,r,A.G(a).fr,r,r,r,r,r,"Oxanium",r,r,50,r,r,B.af,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=A.b5("Versi\xf3n 1.1.3",r,r,r,A.aT(r,r,A.G(a).fr,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),n=A.dc(r,100,r),m=t.p,l=A.es(A.a([s.abG(),A.dc(r,r,10),A.a17(new A.bR(new A.az(8,12,8,12),A.b5("Ingresar",r,r,r,A.aT(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),s.gaev(),s.gaeu())],m),B.bg,B.ag,B.P),k=A.dc(r,16,r)
 p=A.hd(A.a([p,o,n,l,k,s.e?new A.x6(r,r,r,r,r,r,r):A.dc(r,2,r)],m),B.a6,B.H5,B.P)
 return A.oK(r,A.d9(B.U,A.d9(r,new A.bR(B.Cm,new A.wq(p,B.kd,s.d),r),r,r,r,r,r,r,350),r,r,new A.dG(r,r,r,r,r,new A.qZ(B.cs,B.yk,B.cW,q,r,r),B.aL),r,r,r,r),r)},
 abG(){var s=null,r=A.aT(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
