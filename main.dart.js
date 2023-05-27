@@ -82668,7 +82668,7 @@ gnv(){return"\\"}}
 A.a9A.prototype={}
 A.Kw.prototype={
 K(a){var s=null,r=4284546968
-return new A.xq(B.Dx,"Punteo YB 1.4.0",A.ayX(A.avv(s,s,s,new A.o(r),s,s,s,s,s,s,s,s,s,s,s,s),s,new A.o(r),new A.rQ(s,new A.o(r),s,s,s,s,s,s,s,s),!0),!1,s)}}
+return new A.xq(B.Dx,"Punteo YB 1.4.1",A.ayX(A.avv(s,s,s,new A.o(r),s,s,s,s,s,s,s,s,s,s,s,s),s,new A.o(r),new A.rQ(s,new A.o(r),s,s,s,s,s,s,s,s),!0),!1,s)}}
 A.e5.prototype={
 bq(){return B.a4.hZ(A.at(["mesa",this.a,"referente",this.b,"hora",this.c],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -83062,7 +83062,8 @@ if(q.e===B.i9)s.push(A.f8(A.a([q.aeD(),A.dC(p,p,10),new A.m0(B.Dh,"Ingresar",q.g
 s.push(new A.n6(2,p))
 if(q.e===B.eR){r=A.a([new A.m0(B.Dl,"Marcar por escuelas",q.gahJ(),p,p),new A.m0(B.Dj,"Marcar Mesa sugerida",q.gahK(),p,p),new A.m0(B.iq,"Marcar por votantes",q.gahL(),p,p)],n)
 if(B.b.p(B.mM,A.ma($.eA).a))r.push(new A.m0(B.mh,"Ver Ranking de usuarios",q.gahN(),p,p))
-B.b.N(s,A.a([new A.Ou(!0,p),new A.n6(1,p),new A.Iy(p),new A.n6(1,p),A.hr(r,B.a3,B.ac,B.T),A.bk("Versi\xf3n 1.4.0",p,p,p,A.ba(p,p,A.S(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],n))}n=A.hr(s,B.a3,B.j1,B.T)
+B.b.N(s,A.a([new A.Ou(!0,p),new A.n6(1,p),new A.Iy(p),new A.n6(1,p),A.hr(r,B.a3,B.ac,B.T)],n))}s.push(A.bk("Versi\xf3n 1.4.1",p,p,p,A.ba(p,p,A.S(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
+n=A.hr(s,B.a3,B.j1,B.T)
 return A.tk(!0,A.zG(o,A.dw(B.P,A.dw(p,new A.xl(n,B.ku,q.d),p,p,p,p,p,p,350),p,p,new A.dM(p,p,p,p,p,new A.oH(B.c6,B.km,B.bL,m,p,p),B.aK),p,p,p,p),!0),B.ah,!0)},
 yk(){var s=0,r=A.L(t.z),q=this
 var $async$yk=A.M(function(a,b){if(a===1)return A.I(b,r)
