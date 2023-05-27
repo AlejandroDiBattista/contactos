@@ -31,9 +31,9 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "icons/PunteoYB-192.png": "c49cc2e6e0f85a09e43b7c56be1284ee",
 "icons/PunteoYB-512.png": "c3ea7af7b307825bdebdb8a732659a16",
 "icons/PunteoYB.png": "56211c388b6a701e9f3b240e3eadb93a",
-"index.html": "f39b22333a8a4727a9cf5647bdc3f96a",
-"/": "f39b22333a8a4727a9cf5647bdc3f96a",
-"main.dart.js": "4836398408d66c7d4e0d30fddbdfec2d",
+"index.html": "73524bbc53eb28133edc44f9060b7d51",
+"/": "73524bbc53eb28133edc44f9060b7d51",
+"main.dart.js": "aa6dbbf789a730f0088850aea5f3464d",
 "manifest.json": "1b94de60db31ef11233cb09bde112c54",
 "version.json": "e54704bcec42ae8b07615cc80277aa5c"};
 // The application shell files that are downloaded before a service worker can
