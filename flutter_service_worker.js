@@ -31,8 +31,8 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "icons/PunteoYB-192.png": "c49cc2e6e0f85a09e43b7c56be1284ee",
 "icons/PunteoYB-512.png": "c3ea7af7b307825bdebdb8a732659a16",
 "icons/PunteoYB.png": "56211c388b6a701e9f3b240e3eadb93a",
-"index.html": "e52ec1523d560e767251aa86239f6890",
-"/": "e52ec1523d560e767251aa86239f6890",
+"index.html": "c3cd69544eae69323017f05a3e9f4e95",
+"/": "c3cd69544eae69323017f05a3e9f4e95",
 "main.dart.js": "f80f476fba9558e1e7ede87c9da662ad",
 "manifest.json": "1b94de60db31ef11233cb09bde112c54",
 "version.json": "e54704bcec42ae8b07615cc80277aa5c"};
