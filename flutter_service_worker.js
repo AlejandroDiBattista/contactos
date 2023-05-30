@@ -14,7 +14,7 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "assets/datos/votantes.json": "955cfb0df45d435530e4cc97b2bbc6f7",
 "assets/FontManifest.json": "bf9160a436828f947d5b0d9b026cb4c7",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "f526735a902ad52a656dab6eb5747d68",
+"assets/NOTICES": "e0ef891d0da8905d676c539b5493991a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -31,9 +31,9 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "icons/PunteoYB-192.png": "c49cc2e6e0f85a09e43b7c56be1284ee",
 "icons/PunteoYB-512.png": "c3ea7af7b307825bdebdb8a732659a16",
 "icons/PunteoYB.png": "56211c388b6a701e9f3b240e3eadb93a",
-"index.html": "59b8b709da12f3f0cd7862b4e9fa6d9b",
-"/": "59b8b709da12f3f0cd7862b4e9fa6d9b",
-"main.dart.js": "c8eb26e99b13ff8470a6e8a186f73ae4",
+"index.html": "cec98c64a9d10a54259ae758b4c77b8c",
+"/": "cec98c64a9d10a54259ae758b4c77b8c",
+"main.dart.js": "501f238430bebdfc3f6ac51ad13226d2",
 "manifest.json": "1b94de60db31ef11233cb09bde112c54",
 "version.json": "e54704bcec42ae8b07615cc80277aa5c"};
 // The application shell files that are downloaded before a service worker can
