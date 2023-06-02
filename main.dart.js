@@ -84136,7 +84136,7 @@ gnE(){return"\\"}}
 A.aaS.prototype={}
 A.Le.prototype={
 J(a){var s=null
-return new A.xL(B.Ek,"Punteo YB 1.9.0",A.auY(A.axn(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cr,!0),!1,s)}}
+return new A.xL(B.Ek,"Punteo YB 1.9.1",A.auY(A.axn(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cr,!0),!1,s)}}
 A.ee.prototype={
 bq(){return B.a5.hp(A.av(["mesa",this.a,"referente",this.b,"hora",this.c],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -84759,7 +84759,7 @@ if(q.e===B.iu){s=A.b8(p,p,p,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 B.b.M(o,A.a([A.dg(A.a([A.d_(p,A.aNx(q.f,A.au0(p,new A.hT(4,A.qE(30),new A.aR(B.cs,1,B.z,-1)),p,new A.ay(20,0,20,0),p,p,p,p,!0,p,p,p,p,p,B.j,!0,p,p,p,p,p,p,p,p,p,p,p,"Ingrese DNI",p,p,p,p,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),B.Nv,s,q.gamt()),p,p,p,p,p,p,p,150),A.c5(p,p,10),new A.kw(B.E2,"Ingresar",q.gaiy(),q.gaiz(),!1,p)],l),B.bj,B.fx,B.D),new A.pH(3,p)],l))}if(q.e===B.iv){s=A.a([new A.kw(B.E8,"Marcar Mesa prioritarias (Faltan "+$.att.length+")",q.gaiS(),p,!0,p),new A.kw(B.iL,"Marcar Conocidos",q.gaiT(),p,!1,p),new A.kw(B.E1,"Marcar Escuelas",q.gaiR(),p,!1,p)],l)
 if(B.b.p(B.GI,A.jt($.dm).a)){r=A.a([A.ot(new A.kw(B.mG,"Ver Ranking ",q.gaiV(),p,!1,p),1)],l)
 if($.dm===18627585)B.b.M(r,A.a([A.c5(p,p,10),A.ot(new A.kw(B.mG,"Ver Encuesta",q.gaiQ(),p,!1,p),1)],l))
-s.push(A.dg(r,B.J,B.S,B.D))}B.b.M(o,A.a([new A.Ph(!0,p),new A.Ji(p),new A.pH(1,p),A.dU(s,B.J,B.S,B.D)],l))}o.push(A.b6("Versi\xf3n 1.9.0",p,p,p,A.b8(p,p,A.N(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
+s.push(A.dg(r,B.J,B.S,B.D))}B.b.M(o,A.a([new A.Ph(!0,p),new A.Ji(p),new A.pH(1,p),A.dU(s,B.J,B.S,B.D)],l))}o.push(A.b6("Versi\xf3n 1.9.1",p,p,p,A.b8(p,p,A.N(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
 o=A.dU(o,B.J,B.fx,B.D)
 return A.pt(!0,A.tE(n,A.d_(B.L,A.dU(A.a([new A.JG(p),A.ot(A.d_(p,new A.xG(o,B.kP,q.d),p,p,p,p,p,p,p,350),1)],l),B.J,B.S,B.D),p,p,m,p,p,p,p,p),!0),!0,B.ai,!0,!0)},
 aev(){return this.ag(new A.alj(this))},
@@ -91344,7 +91344,7 @@ return A.a([A.a([0.41233895,0.35762064,0.18051042],s),A.a([0.2126,0.7152,0.0722]
 $.a0t=A.a([95.047,100,108.883],t.n)
 $.aCq=null
 $.aqr=null
-$.dm=18627585
+$.dm=0
 $.f8=A.a([],A.a5("v<dY>"))
 $.ats=A.a([],t.G5)
 $.mn=A.a([],t.xN)
