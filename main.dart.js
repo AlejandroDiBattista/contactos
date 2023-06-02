@@ -84093,7 +84093,7 @@ gnE(){return"\\"}}
 A.aaH.prototype={}
 A.Le.prototype={
 J(a){var s=null
-return new A.xL(B.Ek,"Punteo YB 1.7",A.auK(A.ax8(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cT,!0),!1,s)}}
+return new A.xL(B.Ek,"Punteo YB 1.7.1",A.auK(A.ax8(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cT,!0),!1,s)}}
 A.ed.prototype={
 bq(){return B.a5.hp(A.av(["mesa",this.a,"referente",this.b,"hora",this.c],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -84670,7 +84670,7 @@ if(q.e===B.iu){s=A.b8(p,p,p,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 B.b.M(o,A.a([A.df(A.a([A.cZ(p,A.aNi(q.f,A.atO(p,new A.hQ(4,A.qD(30),new A.aR(B.cr,1,B.z,-1)),p,new A.ay(20,0,20,0),p,p,p,p,!0,p,p,p,p,p,B.j,!0,p,p,p,p,p,p,p,p,p,p,p,"Ingrese DNI",p,p,p,p,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),B.Nv,s,q.gamr()),p,p,p,p,p,p,p,150),A.c5(p,p,10),new A.kw(B.E1,"Ingresar",q.gaix(),q.gaiy(),p)],l),B.bj,B.fx,B.D),new A.pH(3,p)],l))}if(q.e===B.iv){s=A.a([new A.kw(B.E6,"Marcar por escuelas",q.gaiQ(),p,p),new A.kw(B.E3,"Marcar Mesa sugerida",q.gaiR(),p,p),new A.kw(B.iL,"Marcar por votantes",q.gaiS(),p,p)],l)
 if(B.b.p(B.GI,A.jt($.dt).a)){r=A.a([A.ot(new A.kw(B.mG,"Ver Ranking ",q.gaiU(),p,p),1)],l)
 if($.dt===18627585)B.b.M(r,A.a([A.c5(p,p,10),A.ot(new A.kw(B.mG,"Encuesta",q.gaiP(),p,p),1)],l))
-s.push(A.df(r,B.J,B.S,B.D))}B.b.M(o,A.a([new A.Ph(!0,p),new A.Ji(p),new A.pH(1,p),A.dU(s,B.J,B.S,B.D)],l))}o.push(A.b6("Versi\xf3n 1.7",p,p,p,A.b8(p,p,A.N(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
+s.push(A.df(r,B.J,B.S,B.D))}B.b.M(o,A.a([new A.Ph(!0,p),new A.Ji(p),new A.pH(1,p),A.dU(s,B.J,B.S,B.D)],l))}o.push(A.b6("Versi\xf3n 1.7.1",p,p,p,A.b8(p,p,A.N(a).fr,p,p,p,p,p,p,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
 o=A.dU(o,B.J,B.fx,B.D)
 return A.pt(!0,A.tD(n,A.cZ(B.L,A.dU(A.a([new A.JG(p),A.ot(A.cZ(p,new A.xG(o,B.kP,q.d),p,p,p,p,p,p,p,350),1)],l),B.J,B.S,B.D),p,p,m,p,p,p,p,p),!0),!0,B.ai,!0,!0)},
 aeu(){return this.ag(new A.al7(this))},
@@ -84935,7 +84935,7 @@ m.push(A.df(A.a([A.b6(q.b,s,s,s,A.b8(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s
 m.push(A.df(A.a([A.b6("Mesa : "+r.f,s,s,s,o,s,s),A.b6("Orden: "+r.r,s,s,s,o,s,s)],n),B.J,B.c4,B.D))
 return A.axu(A.cZ(s,A.dU(m,B.bj,B.S,B.D),s,s,s,s,s,s,new A.ay(8,4,8,4),380),B.j,8)}}
 A.Pi.prototype={
-J(a){var s,r,q,p,o,n,m,l,k=null,j=this.akS(this.d),i=A.c5(k,k,10),h=this.c,g=A.c5(A.b6(h.b,k,k,k,A.b8(k,k,k,k,k,k,k,k,k,k,k,20,k,k,B.ay,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,300),f=h.a,e=A.b6("DNI "+f+"  | ",k,k,k,k,k,k),d=A.b6(h.c,k,k,k,A.b8(k,k,k,k,k,k,k,k,k,k,k,12,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),c=t.p
+J(a){var s,r,q,p,o,n,m,l,k=null,j=this.akS(this.d),i=A.c5(k,k,10),h=this.c,g=A.c5(A.b6(h.b,k,k,k,A.b8(k,k,k,k,k,k,k,k,k,k,k,20,k,k,B.ay,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,280),f=h.a,e=A.b6("DNI "+f+" | ",k,k,k,k,k,k),d=A.b6(h.c,k,k,k,A.b8(k,k,k,k,k,k,k,k,k,k,k,12,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),c=t.p
 d=A.df(A.a([e,d,A.dZ(B.dE,h.z!==0&&h.Q!==0?B.bH:B.cr,k,12)],c),B.J,B.S,B.D)
 s=A.ayk(f).length
 r=A.aJH(f)
