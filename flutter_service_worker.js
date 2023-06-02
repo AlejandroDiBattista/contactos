@@ -9,7 +9,7 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "assets/AssetManifest.json": "eb8e766ac7ce7ca61a196427748c9bad",
 "assets/AssetManifest.smcbin": "9f763f040d4c5d1ffdfdcf513d47d134",
 "assets/assets/fonts/Oxanium.ttf": "3e62391f2c432668edfedc6789292891",
-"assets/datos/escuelas.json": "e653989ce90b82797110a5dc99d0bd71",
+"assets/datos/escuelas.json": "25f454b1cd831c48b15345cdc99a0c9f",
 "assets/datos/fondo.jpg": "42e2d74c89041c460492256c0301af05",
 "assets/datos/votantes.json": "e1e90d0ca8c6578b353f7dea175c3467",
 "assets/FontManifest.json": "bf9160a436828f947d5b0d9b026cb4c7",
@@ -31,9 +31,9 @@ const RESOURCES = {"android-chrome-192x192.png": "28a423d79b2fa826b8650890ae4cf2
 "icons/PunteoYB-192.png": "c49cc2e6e0f85a09e43b7c56be1284ee",
 "icons/PunteoYB-512.png": "c3ea7af7b307825bdebdb8a732659a16",
 "icons/PunteoYB.png": "56211c388b6a701e9f3b240e3eadb93a",
-"index.html": "18d9094aa3754064d69399a612be75f0",
-"/": "18d9094aa3754064d69399a612be75f0",
-"main.dart.js": "1226b5886b85e5b2752e96688bcfdb14",
+"index.html": "0ff0183e5051910fa0ff2e75efa4a582",
+"/": "0ff0183e5051910fa0ff2e75efa4a582",
+"main.dart.js": "ff82923ee48134cdb1ef4c808261bf59",
 "manifest.json": "1b94de60db31ef11233cb09bde112c54",
 "version.json": "e54704bcec42ae8b07615cc80277aa5c"};
 // The application shell files that are downloaded before a service worker can
