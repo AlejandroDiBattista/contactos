@@ -85552,7 +85552,7 @@ gnX(){return"\\"}}
 A.abr.prototype={}
 A.LM.prototype={
 I(a){var s=null
-return new A.xX(B.II,"Punteo YB 1.14.0",A.avI(A.ayd(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cY,!0),!1,s)}}
+return new A.xX(B.II,"Punteo YB 1.14.1",A.avI(A.ayd(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.cY,!0),!1,s)}}
 A.ew.prototype={
 by(){return B.a9.hD(A.ay(["mesa",this.a,"referente",this.b,"hora",this.c],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -86233,7 +86233,7 @@ aE(){A.da("initState:MenuPage")
 A.x8().cc(new A.anq(this),t.H)
 this.aX()},
 iR(){return this.aq(new A.anm())},
-I(a){var s,r=this,q=null,p=A.atO(q,B.w,q,0,q,A.oP(q,A.dI(B.Ej,q,q,q),r.gaeL(),q,q),q),o=A.db(q,q,q,q,A.awL(),q,q,q,q,q),n=A.bU(q,16,q),m=A.KR(!1,!0,new A.C_(A.oh($.dW),r.d,!1,q),q,!0,q,q,q,q,q,q,q,q,q,new A.ano(r),q,q,q,q),l=A.bU(q,16,q),k=t.p,j=A.a([new A.c9(B.br,A.bs("Ya terminamos de marcar votantes. \n\nEstamos organizando los datos para distribuir los votos.",q,q,q,A.bi(q,q,q,q,q,q,q,q,q,q,q,24,q,q,B.aK,q,q,!0,q,q,q,q,q,q,q,q),q,q),q),A.bU(q,8,q),A.a_C(B.iO,"Buscar donde votar",q,r.gaj8()),A.bU(q,16,q)],k)
+I(a){var s,r=this,q=null,p=A.atO(q,B.w,q,0,q,A.oP(q,A.dI(B.Ej,q,q,q),r.gaeL(),q,q),q),o=A.db(q,q,q,q,A.awL(),q,q,q,q,q),n=A.bU(q,16,q),m=A.KR(!1,!0,new A.C_(A.oh($.dW),r.d,!1,q),q,!0,q,q,q,q,q,q,q,q,q,new A.ano(r),q,q,q,q),l=A.bU(q,16,q),k=t.p,j=A.a([new A.c9(B.br,A.bs("Ya terminamos de marcar votantes. \nEstamos organizando los datos para distribuir los votos.",q,q,q,A.bi(q,q,q,q,q,q,q,q,q,q,q,16,q,q,B.aK,q,q,!0,q,q,q,q,q,q,q,q),q,q),q),A.bU(q,8,q),A.a_C(B.iO,"Buscar donde votar",q,r.gaj8()),A.bU(q,16,q)],k)
 if(B.b.p(B.GZ,A.oh($.dW).a)){s=A.a([A.xF(A.a_C(B.mQ,"Ranking ",q,r.gaj9()),1)],k)
 if($.dW===18627585)B.b.M(s,A.a([A.bU(q,q,8),A.xF(A.a_C(B.mQ,"Encuesta",q,r.gaj7()),1)],k))
 j.push(A.e4(s,B.Q,B.X,B.R))}return A.tJ(!0,A.NI(p,A.nj(B.cj,A.a([o,A.aNX(A.ex(A.a([new A.wG(q),n,m,new A.JV(q),l,A.db(q,A.ex(j,B.Q,B.X,B.R),q,q,q,q,q,q,new A.as(4,0,4,0),380),new A.C1(q)],k),B.Q,B.X,B.R))],k),B.aa,B.dh),!0),!0,B.at,!0,!0)},
@@ -86440,7 +86440,7 @@ break $label0$0}s=A.bU(A.bs(""+(a+1),r,r,r,r,B.hi,r),r,24)
 break $label0$0}return s}}
 A.C1.prototype={
 I(a){var s=null
-return A.kB(new A.c9(B.br,A.bs("Versi\xf3n 1.14.0",s,s,s,A.bi(s,s,A.auz($.bG()).fr,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s)}}
+return A.kB(new A.c9(B.br,A.bs("Versi\xf3n 1.14.1",s,s,s,A.bi(s,s,A.auz($.bG()).fr,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s)}}
 A.q1.prototype={
 al(){return new A.Xw(B.i)}}
 A.Xw.prototype={
