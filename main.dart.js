@@ -86842,7 +86842,7 @@ s=b-1
 return new A.nI(this.r[s],B.l,s,this.game(),null)},
 ajm(a,b){return this.a.e.length!==0?a.c===b.c:a.as===b.as},
 Wv(a){var s,r,q,p,o,n,m=this,l=null
-if(m.a.e.length!==0){if(a!==0){s=m.r
+if(a!==0){s=m.r
 s=!m.ajm(s[a],s[a-1])}else s=!0
 if(s){s=m.r
 r=s.length-1
@@ -86852,7 +86852,9 @@ while(!0){if(p<r){o=s[p]
 n=s[p+1]
 o=q.e.length!==0?o.c===n.c:o.as===n.as}else o=!1
 if(!o)break;++p}s=q.e.length!==0?s[a].c:s[a].as
-return A.cW(l,A.dP(A.a([A.b7(s,l,l,l,A.b3(l,l,B.ia,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),A.b7("Hay "+(p-a+1),l,l,l,A.b3(l,l,B.ia,l,l,l,l,l,l,l,l,14,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],t.p),B.R,B.bR,B.N),B.lY,l,l,l,l,l,new A.an(16,4,16,4),l)}}return A.oA(B.cV,1)},
+s=A.a([A.b7(s,l,l,l,A.b3(l,l,B.ia,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],t.p)
+if(p>1)s.push(A.b7(""+(p-a+1),l,l,l,A.b3(l,l,B.ia,l,l,l,l,l,l,l,l,18,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l))
+return A.cW(l,A.dP(s,B.R,B.bR,B.N),B.lY,l,l,l,l,l,new A.an(16,4,16,4),l)}return A.oA(B.cV,1)},
 agU(a){var s,r=a.gnQ(a)
 $label0$0:{if(3===r){s="No Ubicable"
 break $label0$0}if(4===r){s="Barrios"
