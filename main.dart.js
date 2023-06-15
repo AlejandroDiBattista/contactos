@@ -85522,7 +85522,7 @@ gm0(){return"windows"},
 go1(){return"\\"}}
 A.M1.prototype={
 I(a){var s=null
-return new A.y7(B.IQ,"Punteo YB 2.1.0",A.awI(A.aze(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.bB,!0),!1,s)}}
+return new A.y7(B.IQ,"Punteo YB 2.1.1",A.awI(A.aze(s,s,s,new A.o(4284546968),s,s,s,s,s,s,s,s,s,s,s,s),s,B.bB,!0),!1,s)}}
 A.ei.prototype={
 bw(){return B.a9.h2(A.aw(["mesa",this.a,"referente",this.b,"hora",this.c,"cerrada",!0],t.N,t.z))},
 k(a){return"Cierre(mesa: "+this.a+", referente: "+this.b+", hora: "+this.c.k(0)+")"},
@@ -86683,8 +86683,8 @@ s=A.bu(f,5,f)
 o=g.QV("desde: ",B.b.gK(m).b)
 m=g.QV("hasta: ",B.b.gS(m).b)
 n=A.bu(f,4,f)
-h=A.aM(f,f,B.aT,f,f,f,f,f,f,f,f,16,f,f,f,f,f,!0,f,f,f,f,f,f,f,f)
-return A.avJ(f,new A.aoa(g,e),new A.aob(g,e),A.cY(A.a([s,o,m,n,new A.c2(B.aZ,A.cS(A.a([A.aC("Entregados: 0",f,f,f,h,f,f),A.aC("Votantes: "+e.e,f,f,f,h,f,f),A.aC("Votos: "+e.f,f,f,f,h,f,f),A.aC("Participacion: "+B.d.a8(e.r,1)+"%",f,f,f,h,f,f)],i),B.B,B.jA,B.x),f)],i),B.b4,B.bb,B.x),r,d,A.d9(B.mV,q,f,f))},
+h=A.aM(f,f,B.aT,f,f,f,f,f,f,f,f,12,f,f,f,f,f,!0,f,f,f,f,f,f,f,f)
+return A.avJ(f,new A.aoa(g,e),new A.aob(g,e),A.cY(A.a([s,o,m,n,new A.c2(B.aZ,A.cS(A.a([A.aC("Votantes: "+e.e,f,f,f,h,f,f),A.aC("Votos: "+e.f,f,f,f,h,f,f),A.aC("Entregados: 0",f,f,f,h,f,f),A.aC("   "+B.d.a8(e.r,1)+"%",f,f,f,h,f,f)],i),B.B,B.jA,B.x),f)],i),B.b4,B.bb,B.x),r,d,A.d9(B.mV,q,f,f))},
 QV(a,b){var s=null
 return A.cS(A.a([A.bu(s,s,20),A.cl(s,A.aC(a,s,s,s,A.aM(s,s,s,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s,s,40),A.aC(b,s,s,s,A.aM(s,s,s,s,s,s,s,s,s,s,s,14,s,s,B.am,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.B,B.H,B.x)},
 GB(a){return this.aja(a)},
@@ -86895,7 +86895,7 @@ break $label0$0}s=A.bu(A.aC(""+(a+1),r,r,r,r,B.hp,r),r,24)
 break $label0$0}return s}}
 A.Cc.prototype={
 I(a){var s=null
-return A.js(new A.c2(B.aZ,A.aC("Versi\xf3n 2.1.0 @ 13/06 21:00",s,s,s,A.aM(s,s,A.avp($.br()).fr,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s)}}
+return A.js(new A.c2(B.aZ,A.aC("Versi\xf3n 2.1.1 @ 13/06 21:00",s,s,s,A.aM(s,s,A.avp($.br()).fr,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s)}}
 A.nD.prototype={
 ak(){return new A.XI(B.i)}}
 A.XI.prototype={
